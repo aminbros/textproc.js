@@ -1,0 +1,11 @@
+{
+  "name": "textproc",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~1.0.1",
+    "grunt-contrib-jshinty": "~1.0.0"
+  },
+  "dependencies": {
+    "grunt-jasmine-nodejs": "~1.5.3"
+  }
+}
